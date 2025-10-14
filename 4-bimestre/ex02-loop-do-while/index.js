@@ -1,6 +1,7 @@
 // CRIE UMA LÓGICA AQUI
 
 let contador = 5
+let resultado 
 
 do{
 resultado = contador
